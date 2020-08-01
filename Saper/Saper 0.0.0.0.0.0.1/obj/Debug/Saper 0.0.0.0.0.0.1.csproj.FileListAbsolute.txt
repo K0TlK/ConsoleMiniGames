@@ -1,0 +1,14 @@
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\bin\Debug\Saper 0.0.0.0.0.0.1.exe.config
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\bin\Debug\Saper 0.0.0.0.0.0.1.exe
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\bin\Debug\Saper 0.0.0.0.0.0.1.pdb
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.csprojAssemblyReference.cache
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.csproj.CoreCompileInputs.cache
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.exe
+E:\Хацкерское\Saper\Saper 0.0.0.0.0.0.1\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.pdb
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\bin\Debug\Saper 0.0.0.0.0.0.1.exe.config
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\bin\Debug\Saper 0.0.0.0.0.0.1.exe
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\bin\Debug\Saper 0.0.0.0.0.0.1.pdb
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.csprojAssemblyReference.cache
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.exe
+C:\Users\PrettyKotik\source\repos\Saper\Saper 0.0.0.0.0.0.1\obj\Debug\Saper 0.0.0.0.0.0.1.pdb
